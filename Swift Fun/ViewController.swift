@@ -20,7 +20,6 @@ class ViewController: UIViewController {
         if (buttonCount >= 10) {
             view.backgroundColor = UIColor.red
             myLabel.text = "This is cool"
-            print(buttonCount)
         }
     }
     
